@@ -1,0 +1,492 @@
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\rpgworldbuilder.dll.config
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\rpgworldbuilder.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\rpgworldbuilder.pdb
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csc.exe
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csc.exe.config
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csc.rsp
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csi.exe
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csi.exe.config
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csi.rsp
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.AppContext.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Console.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.Compression.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Claims.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.ValueTuple.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\vbc.exe
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\vbc.exe.config
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\vbc.rsp
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\VBCSCompiler.exe
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Antlr3.Runtime.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.SqlServer.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Newtonsoft.Json.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Owin.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Optimization.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Providers.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\WebGrease.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Optimization.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Newtonsoft.Json.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Antlr3.Runtime.pdb
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.SqlServer.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Providers.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.csprojResolveAssemblyReference.cache
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.csproj.CoreCompileInputs.cache
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.pdb
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\rpgworldbuilder.dll.config
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\rpgworldbuilder.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\rpgworldbuilder.pdb
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csc.exe
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csc.exe.config
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csc.rsp
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csi.exe
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csi.exe.config
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csi.rsp
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.AppContext.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Console.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\vbc.exe
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\vbc.exe.config
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\vbc.rsp
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Antlr3.Runtime.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.SqlServer.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Newtonsoft.Json.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Owin.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Optimization.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Providers.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\WebGrease.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Optimization.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Newtonsoft.Json.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Antlr3.Runtime.pdb
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.SqlServer.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Providers.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.csprojAssemblyReference.cache
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.csproj.CoreCompileInputs.cache
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.csproj.CopyComplete
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.pdb
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.Management.Storage.Fluent.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.Management.ResourceManager.Fluent.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.Management.Storage.Fluent.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\Lisa\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.Management.ResourceManager.Fluent.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\rpgworldbuilder.dll.config
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\rpgworldbuilder.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\rpgworldbuilder.pdb
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csc.exe
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csc.exe.config
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csc.rsp
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csi.exe
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csi.exe.config
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csi.rsp
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.AppContext.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Console.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\vbc.exe
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\vbc.exe.config
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\vbc.rsp
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Antlr3.Runtime.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.SqlServer.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Newtonsoft.Json.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Owin.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Optimization.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Providers.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\WebGrease.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.Management.ResourceManager.Fluent.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Optimization.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Newtonsoft.Json.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Antlr3.Runtime.pdb
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.SqlServer.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Providers.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.csprojAssemblyReference.cache
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.csproj.CopyComplete
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.pdb
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Net.Http.Formatting.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Http.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Http.WebHost.dll
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Net.Http.Formatting.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Http.xml
+C:\Users\Jacob\Documents\GitHub\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Http.WebHost.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\rpgworldbuilder.dll.config
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\rpgworldbuilder.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\rpgworldbuilder.pdb
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csc.exe
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csc.exe.config
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csc.rsp
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csi.exe
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csi.exe.config
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\csi.rsp
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.AppContext.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Console.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.Compression.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Claims.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.ValueTuple.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\vbc.exe
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\vbc.exe.config
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\vbc.rsp
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\VBCSCompiler.exe
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Antlr3.Runtime.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.SqlServer.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Newtonsoft.Json.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Owin.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\System.Net.Http.Formatting.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Http.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Http.WebHost.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Optimization.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Providers.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\WebGrease.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Azure.Management.ResourceManager.Fluent.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\System.Net.Http.Formatting.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Http.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Http.WebHost.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Optimization.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Newtonsoft.Json.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Antlr3.Runtime.pdb
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\EntityFramework.SqlServer.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Providers.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.csproj.CopyComplete
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.dll
+C:\Users\pankz\Documents\School Documents\CSS 436\prog5\rpgworldbuilder\rpgworldbuilder\obj\Debug\rpgworldbuilder.pdb
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Net.Http.Formatting.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Http.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Http.WebHost.dll
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Net.Http.Formatting.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Http.xml
+C:\Users\Argeon\source\repos\rpgworldbuilder\rpgworldbuilder\rpgworldbuilder\bin\System.Web.Http.WebHost.xml

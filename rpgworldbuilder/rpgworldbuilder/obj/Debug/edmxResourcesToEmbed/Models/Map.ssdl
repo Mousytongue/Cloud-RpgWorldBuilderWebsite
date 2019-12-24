@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="rpgworldbuilderDatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Map">
+    <Key>
+      <PropertyRef Name="MapID" />
+    </Key>
+    <Property Name="MapImage" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MapName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MapID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserID" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MapDescription" Type="nvarchar(max)" />
+    <Property Name="PointsOfInterest" Type="nvarchar(max)" />
+    <Property Name="UserName" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="rpgworldbuilderDatabaseModelStoreContainer">
+    <EntitySet Name="Map" EntityType="Self.Map" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

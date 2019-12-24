@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpgworldbuilder", "rpgworldbuilder\rpgworldbuilder.csproj", "{86F2C2AA-715C-432D-B9EC-A2DAA19A459D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F2C2AA-715C-432D-B9EC-A2DAA19A459D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F2C2AA-715C-432D-B9EC-A2DAA19A459D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F2C2AA-715C-432D-B9EC-A2DAA19A459D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F2C2AA-715C-432D-B9EC-A2DAA19A459D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37ACBB8E-E771-4213-9806-148269B8F3C9}
+	EndGlobalSection
+EndGlobal
